@@ -1,0 +1,14 @@
+Name of the student : Jklm
+Class Roll of the student : 46 
+Stream of the student : CSE 
+Your Student ID is : CSE2246
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 100 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 100 
+
+You have got 600 in total with 100%
+Outstanding Performance... You have passed the exam with grade A.
